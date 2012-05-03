@@ -32,7 +32,7 @@ The goal of MatDaemon.com is to do be able to all this over time.
   * Matplotlib -- Duh! (for generating plots)
   * Tornado -- web application
 
-This application will be built as a WSGI web app. The app is likely to be deployed on Redhat's [OpenShift](http://openshift.redhat.com) 
+The app is likely to be deployed on Redhat's [OpenShift](http://openshift.redhat.com) 
 PaaS cloud.
 
 
